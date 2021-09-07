@@ -1,0 +1,31 @@
+DS LAB CS 513
+Assignment 2 -- AVL Tree 
+Roll No: 214101014 
+Name : Darshika Verma
+
+#################################################################################################################################
+######  EXECUTE THE CODE IN DEV C++ #############################################################################################
+#################################################################################################################################
+
+Steps to EXECUTE the AVL_214101014.cpp file:
+
+1. Open the file AVL_214101014.cpp in Dev C++.
+2. Compile and Run the file using the f11 key.
+3. There will a Console window displayed on the screen.
+4. With the help of the AVL Tree Main Menu,you can execute all the operations, by choosing the appropriate key.
+
+
+####################################################################################################################################
+
+Steps To print the AVL Tree using graphViz:
+------------------------------
+1. Enter the name of the file according to your convenience.
+2. A png file will be automatically generated in the folder where the executable file is saved.
+3. Open the png file to view the tree printed.
+
+
+#################################################################################################################################
+
+Exit the program.
+
+#############################################################################################################################
